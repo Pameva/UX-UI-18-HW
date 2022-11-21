@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(17, 59, 64);
+  }
+  h1 {
+    color: rgb(102, 102, 214);
+    background: cornflowerblue;
+  }
+  p {
+    color: rgb(131, 0, 0);
+  }
